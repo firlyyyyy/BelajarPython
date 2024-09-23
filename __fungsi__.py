@@ -1,0 +1,1 @@
+print(f"nilai dari file __fungsi__.py = {__name__}")
